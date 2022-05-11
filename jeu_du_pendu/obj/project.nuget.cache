@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yGdCOxMBWr7kbIru4/0SCQk0Z0op51du6kaCt1w7e457Ufn74t6gpggNnNvRkMBxJY/ZeYwRpotMRW+9CyrqVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Maxime\\Desktop\\projet_C#\\jeu_du_pendu\\jeu_du_pendu\\jeu_du_pendu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maxime\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
